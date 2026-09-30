@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from Inter (SIL Open Font License) glyph outlines. Do not edit by hand. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="VectorRaster,VectorPath"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M44.80,53.80 V47.20 A8.30,8.30 0 0 1 60.10,42.74"
+        android:strokeColor="#FF0A84FF"
+        android:strokeWidth="4.20"
+        android:strokeLineCap="round" />
+    <path
+        android:fillType="evenOdd"
+        android:fillColor="#FF0A84FF"
+        android:pathData="M40.60,51.80 H67.40 A0.60,0.60 0 0 1 68.00,52.40 V65.60 A5.60,5.60 0 0 1 62.40,71.20 H45.60 A5.60,5.60 0 0 1 40.00,65.60 V52.40 A0.60,0.60 0 0 1 40.60,51.80 Z M52.06,62.19 A3.40,3.40 0 1 1 55.94,62.19 V64.96 A1.94,1.94 0 0 1 52.06,64.96 Z" />
+</vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cleartext HTTP only for the local FRITZ!Box; must match security/HostAllowlist.kt. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">fritz.box</domain>
+        <domain includeSubdomains="false">192.168.188.1</domain>
+        <domain includeSubdomains="false">192.168.178.1</domain>
+    </domain-config>
+</network-security-config>
